@@ -1,6 +1,6 @@
 # COVID-19-Public-Preview
 
-### If you have feedback or suggestions, or would like to help in the development, contact me at andrew@steckleyandassociates.com
+### If you have feedback or suggestions, or would like to help in the development of this model, contact me at andrew@steckleyandassociates.com
 
 I am developing a model for the COVID-19 outbreaks and spread, using and Agent-Based Modeling approach.
 Below is a early output.
