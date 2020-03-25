@@ -19,4 +19,4 @@ The model's biggest deficiencies, which I'm working on, are:
 * gathering the best estimates (that represent real-world ground truth) for all the input parameters.
 * Enhancing it to include spatial modeling and density variation of the populations
 
-
+![text image](images/V1-Run1.png)
