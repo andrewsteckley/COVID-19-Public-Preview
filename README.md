@@ -3,7 +3,7 @@
 ### If you have feedback or suggestions, or would like to help in the development of this model, contact me at andrew@steckleyandassociates.com
 
 I am developing a model for the COVID-19 outbreaks and spread, using and Agent-Based Modeling approach.
-Below is a early output.
+Below is an early output.
 
 The model, at this time, allows configuring a number of parameters including:
 
